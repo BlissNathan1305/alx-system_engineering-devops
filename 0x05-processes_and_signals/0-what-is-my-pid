@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# displsys its own PID
+echo $$
